@@ -1,0 +1,7 @@
+﻿D:\Program Files\visual2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+D:\c++\Code\KiphapBL\Project2\Source.cpp(5,9): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+D:\c++\Code\KiphapBL\Project2\Source.cpp(21,26): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\c++\Code\KiphapBL\Project2\Source.cpp(21,29): warning C4838:  conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\c++\Code\KiphapBL\Project2\Source.cpp(817,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project2.vcxproj -> D:\c++\Code\KiphapBL\x64\Debug\DeMo KPBL.exe
